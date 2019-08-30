@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    <a href="/level2" class="btn btn-secondary">Goto Next level</a>
                 </div>
             </div>
         </div>
